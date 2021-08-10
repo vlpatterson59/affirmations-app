@@ -26,3 +26,11 @@ Affirmations is an Android app that utilizes the RecyclerView for displaying a s
 [```RecyclerView.ViewHolder```](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView.ViewHolder)
 
 [```RecyclerView``` library](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView.ViewHolder)
+
+[```TextAppearance```](https://developer.android.com/guide/topics/ui/look-and-feel/themes#textappearance)
+
+### Material Design
+
+[Cards](https://material.io/components/cards/android)
+
+[Color Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
