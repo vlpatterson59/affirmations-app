@@ -10,3 +10,19 @@ Affirmations is an Android app that utilizes the RecyclerView for displaying a s
 
 
 ## References and Resources
+
+### Android
+
+[Create dynamic lists with ```RecyclerView```](https://developer.android.com/guide/topics/ui/layout/recyclerview)
+
+[Display a list of images using cards](https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards#0)
+
+[```Lists``` in Material Design](https://material.io/components/lists)
+
+[```RecyclerView```](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView)
+
+[```RecyclerView.Adapter```](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView.Adapter)
+
+[```RecyclerView.ViewHolder```](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView.ViewHolder)
+
+[```RecyclerView``` library](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView.ViewHolder)
